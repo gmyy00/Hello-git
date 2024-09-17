@@ -105,6 +105,6 @@
 #
 # print(count_ways_to_make_change(n))  # 输出应该是2（1+1+1和1+2）
 
-a = [1,2,3,4,5,6,7]
-b = reversed(a)
-print(b)
+# a = [1,2,3,4,5,6,7]
+# b = reversed(a)
+# print(b)
