@@ -23,5 +23,5 @@
 
 ## 综上所述，Markdown以其简洁的语法和广泛的兼容性，在多个领域和场景中发挥着重要作用，无论是项目文档编写、技术博客文章、科研论文撰写，还是教学资料编写、电子书编写以及个人笔记和日常记录等，Markdown都能提供高效的写作和组织工具。
 
-[我的GitHub](https://github.com/gmyy00)
+[我的GitHub](https://github.com/gmyy00)  
 [MarkDown教程](https://markdown.com.cn/)
